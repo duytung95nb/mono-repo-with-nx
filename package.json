@@ -1,0 +1,19 @@
+{
+  "name": "mono-repo-with-nx",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "libs/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nx": "21.6.4"
+  },
+  "nx": {}
+}
