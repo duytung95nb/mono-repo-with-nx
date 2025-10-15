@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/frontend/todo-user-app-e2e"
+    },
+    {
+      "path": "./apps/frontend/todo-user-app"
+    },
+    {
+      "path": "./apps/frontend/todo-admin-e2e"
+    },
+    {
+      "path": "./apps/frontend/todo-admin"
+    }
+  ]
+}
