@@ -17,6 +17,12 @@
     },
     {
       "path": "./libs/frontend/common-ui"
+    },
+    {
+      "path": "./apps/server/todo-user-app-server-e2e"
+    },
+    {
+      "path": "./apps/server/todo-user-app-server"
     }
   ]
 }
