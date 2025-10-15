@@ -1,17 +1,18 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 import NxWelcome from "./nx-welcome";
+import { CommonUi } from "common-ui";
 
 const StyledApp = styled.div`
-    // Your style here
+  // Your style here
 `;
 
 export function App() {
   return (
     <StyledApp>
-      <NxWelcome title="todo-user-app"/>
+      <CommonUi />
+      <NxWelcome title="todo-user-app" />
     </StyledApp>
   );
 }
 
 export default App;
-

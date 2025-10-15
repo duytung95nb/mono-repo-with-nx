@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../../libs/frontend/common-ui"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {

@@ -11,6 +11,7 @@ https://nx.dev/docs/getting-started/start-new-project
   - Example: `yarn nx g @nx/react:application todo-user-app --directory=apps/frontend/todo-user-app`
 - Run task: `yarn nx <project>:<task>`
   - Example: `yarn nx run todo-user-app:serve`
+- Show graph: `yarn nx graph`
 
 # Explore
 
