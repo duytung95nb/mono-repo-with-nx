@@ -15,10 +15,6 @@ https://nx.dev/docs/getting-started/start-new-project
 - Show graph: `yarn nx graph`
 - Clear cache: `yarn nx reset`
 
-# Explore
-
-Text updated
-
 # CI:
 
 https://cloud.nx.app/orgs/68ece5429ea75a3fdf6874a9/workspaces/68ece4d7a3b9564bf02b192d/overview
