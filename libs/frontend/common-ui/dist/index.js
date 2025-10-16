@@ -1407,7 +1407,7 @@ const yr = ze.div`
   color: pink;
 `;
 function Sr() {
-  return /* @__PURE__ */ Ge(yr, { children: /* @__PURE__ */ Ge("h1", { children: "Welcome to CommonUi!" }) });
+  return /* @__PURE__ */ Ge(yr, { children: /* @__PURE__ */ Ge("h1", { "data-testid": "common-ui-title", children: "Welcome to CommonUi!" }) });
 }
 export {
   Sr as CommonUi

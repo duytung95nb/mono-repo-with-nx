@@ -11,3 +11,5 @@ git status
 vite.config.*.timestamp*
 vitest.config.*.timestamp*
 test-output
+
+**/dist/

@@ -6,7 +6,7 @@ const StyledCommonUi = styled.div`
 export function CommonUi() {
   return (
     <StyledCommonUi>
-      <h1>Welcome to CommonUi!</h1>
+      <h1 data-testid="common-ui-title">Welcome to CommonUi!</h1>
     </StyledCommonUi>
   );
 }

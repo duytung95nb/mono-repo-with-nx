@@ -9,9 +9,10 @@ https://nx.dev/docs/getting-started/start-new-project
 - Generate project:
   - `yarn nx g <plugin>:<generator>`
   - Example: `yarn nx g @nx/react:application todo-user-app --directory=apps/frontend/todo-user-app`
-- Run task: `yarn nx <project>:<task>`
+- Run task: `yarn nx run <project>:<task>`
   - Example: `yarn nx run todo-user-app:serve`
 - Show graph: `yarn nx graph`
+- Clear cache: `yarn nx reset`
 
 # Explore
 
