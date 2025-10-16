@@ -22,5 +22,8 @@
         ]
       }
     }
+  },
+  "dependencies": {
+    "@swc/jest": "^0.2.39"
   }
 }
